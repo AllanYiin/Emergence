@@ -3,6 +3,7 @@
 
 <img decoding="async" src="images/cover.png" width="60%">
 
+
 ### 劇情介紹
 
 在距離ChatGPT7正式問世不久的台北市  
